@@ -6,7 +6,7 @@
 
 - 🔭 Currently working on **A.R.I.S.**
 - 🌱 Currently learning **R, Data Science, AI&Ml**
-- At 1 Gbps, the whole internet would take about 25 million years to download
+- 🛜 At 1 Gbps, the whole internet would take about 25 million years to download
 
 ## Connect With Me
 
@@ -35,9 +35,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/?username=chiraglohar9&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" width="48%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/?username=chiraglohar9&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" width="48%" /> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiraglohar9&theme=merko&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiraglohar9&layout=compact&theme=merko&hide_border=true" width="48%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiraglohar9&layout=compact&theme=merko&hide_border=true" width="48%" /> -->
 
 </div>
 
@@ -51,6 +51,6 @@
 
 #### Contributions in 2026
 
-<img src="https://ghchart.rshah.org/abd200/chiraglohar9" width="900" border="1" alt="chiraglohar9's contribution chart" />
+<img src="https://ghchart.rshah.org/chiraglohar9" width="900" border="1" alt="chiraglohar9's contribution chart" />
 
 </div>
