@@ -4,9 +4,9 @@
 
 ## About Me
 
-- 🔭 Currently working on **A.R.I.S.**<br>
-- 🌱 Currently learning **R, Data Science, AI&Ml** <br>
-🛜 At 1 Gbps, the whole internet would take about 25 million years to download
+🔭 Currently working on **A.R.I.S.**<br>
+🌱 Currently learning **R, Data Science, AI&Ml.** <br>
+🛜 At **1 Gbps**, the whole internet would take about **25 million** years to download.
 
 ## Connect With Me
 
@@ -20,7 +20,7 @@
 
 | Project | Description | Tech Stack | Link |
 |---|---|---|---|
-| [qwr](fwcfq) | qdd | `pthon` | [🔗](fwcfq) |
+| [qwr](fwcfq) | Currently working on A.R.I.S. Currently learning R, Data Science, AI&Ml. At 1 Gbps, the whole internet would take about 25 million years to download. | `pthon, R, OpenCv, pakcj, ijfhi9ushx`,`chatgpt` | [🔗](fwcfq) |
 
 ## GitHub Stats
 
@@ -29,6 +29,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiraglohar9&theme=merko&hide_border=true" width="48%" />
 
 </div>
+<br>
+
 
 <div align="center">
 
