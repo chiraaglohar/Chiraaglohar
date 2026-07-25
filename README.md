@@ -20,7 +20,7 @@
 
 | Project | Description | Tech Stack | Link |
 |---|---|---|---|
-| [qwr](fwcfq) | Currently working on A.R.I.S. Currently learning R, Data Science, AI&Ml. At 1 Gbps, the whole internet would take about 25 million years to download. | `pthon, R, OpenCv, pakcj, ijfhi9ushx`,`chatgpt` | [🔗](fwcfq) |
+| [A.R.I.S.](fwcfq) | Currently working on A.R.I.S. Currently learning R, Data Science, AI&Ml. At 1 Gbps, the whole internet would take about 25 million years to download. | `pthon`,`chatgpt` | [🔗](fwcfq) |
 
 ## GitHub Stats
 
