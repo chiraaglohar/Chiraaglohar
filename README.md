@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chiraglohar9&theme=merko&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chiraaglohar&theme=dark&hide_border=true" width="48%" />
 
 </div>
 <br>
@@ -34,7 +34,7 @@
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chiraglohar9&theme=merko)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chiraaglohar&theme=merko)
 
 </div>
 
