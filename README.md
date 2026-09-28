@@ -23,20 +23,13 @@
 | [A.R.I.S.] | Adaptive Responsive Intelligence System | `pthon`,`chatgpt` | [🔗](fwcfq) |
 
 ## GitHub Stats
-
-<div align="center">
-
+<div>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiraaglohar&theme=dark&hide_border=true" width="48%" />
-
 </div>
-<br>
 
 
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chiraaglohar&theme=merko)
-
-</div>
+## GitHub Activity
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=chiraaglohar&hide_border=true)
 
 
 
