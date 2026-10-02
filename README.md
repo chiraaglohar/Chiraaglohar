@@ -29,7 +29,9 @@
 
 
 ## GitHub Activity
-![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=chiraaglohar&hide_border=true)
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=chiraaglohar&hide_border=true) 
+@chiraalohar
+@billsyncmail-art
 
 
 
